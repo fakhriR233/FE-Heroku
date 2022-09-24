@@ -1,0 +1,46 @@
+[
+  {
+    "image": "https://www.themoviedb.org/t/p/original/vfM7CdJ05vKRs4QjY1oIzWGTn1P.jpg",
+    "title": "Arcane",
+    "trailer": "https://www.youtube.com/embed/wRAQxhDQMMY",
+    "description": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+    "year": 2021,
+    "type": "TV Series"
+  },
+  {
+    "image": "https://images7.alphacoders.com/106/1062438.jpg",
+    "title": "Captain Tsubasa",
+    "year": 2016,
+    "type": "TV Series"
+  },
+  {
+    "image": "https://images3.alphacoders.com/716/716813.png",
+    "title": "Dragon Ball",
+    "year": 2016,
+    "type": "TV Series"
+  },
+  {
+    "image": "https://images.alphacoders.com/821/thumb-1920-821092.png",
+    "title": "Boruto",
+    "year": 2016,
+    "type": "TV Series"
+  },
+  {
+    "image": "https://wallpaperaccess.com/full/1111994.jpg",
+    "title": "Naruto",
+    "year": 2016,
+    "type": "TV Series"
+  },
+  {
+    "image": "https://wallpaperaccess.com/full/1331386.jpg",
+    "title": "One Piece",
+    "year": 2022,
+    "type": "TV Series"
+  },
+  {
+    "image": "https://images3.alphacoders.com/766/thumb-1920-766896.jpg",
+    "title": "Detective Conan",
+    "year": 2016,
+    "type": "TV Series"
+  }
+]
